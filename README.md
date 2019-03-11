@@ -1,2 +1,2 @@
 # Quora-insincere-classification
-Private score 0.69846
+Private score 0.69975
